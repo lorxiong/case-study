@@ -1,0 +1,7 @@
+env/
+*.swp
+*.pyc
+*.db
+
+### OSX ###
+.DS_Store
